@@ -29,6 +29,7 @@ _like a SysAdmin and it was lomg time ago_
 * Coursera
 * RSSchool
 * Educative.io
+* Scrimba
 
 ## Language:
 1. English level C1
