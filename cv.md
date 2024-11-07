@@ -25,11 +25,10 @@ _like a SysAdmin and it was lomg time ago_
 
 * freecodecamp /HTML/CSS/JS
 * codecademy /HTML/CSS/JS
-* Simplelearn
 * Udemy courses
-* Coursers
+* Coursera
 * RSSchool
-* educative.io
+* Educative.io
 
 ## Language:
 1. English level C1
